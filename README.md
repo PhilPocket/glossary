@@ -20,6 +20,9 @@ Personal glossary of IT terms and definitions.
 
 ## C
 
+### Client
+> A computer or application that requests services from a server over a network.
+
 ---
 
 ## D
