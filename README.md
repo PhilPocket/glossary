@@ -84,6 +84,10 @@ Personal glossary of IT terms and definitions.
 
 ## S
 
+### Server
+> A computer or application that provides services to other computers or
+> applications over a network.
+
 ---
 
 ## T
